@@ -1,0 +1,16 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.10.2",
+    "heartbeatAt": "2022-05-05T03:24:29.888481",
+    "startedAt": "2022-05-05T03:23:29.602567",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "Desktop/Artificial Intelligence/Project/Project#2 BrainTumorClassification with MRI/Untitled.ipynb",
+    "root": "C:\\Users\\Muhammad",
+    "host": "MUHAMMAD",
+    "username": "Muhammad",
+    "executable": "C:\\Users\\Muhammad\\AppData\\Local\\Programs\\Python\\Python310\\python.exe"
+}
